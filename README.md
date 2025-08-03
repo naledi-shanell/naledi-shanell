@@ -23,7 +23,7 @@ I’m currently pursuing further specialization in Cloud Security and DevOps, an
 
 ## 🔧 My Tech Stack
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
 
