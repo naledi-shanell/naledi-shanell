@@ -17,15 +17,6 @@ Hi! I'm Naledi – a seasoned IT Infrastructure professional with a passion for 
 
 I’m currently pursuing further specialization in Cloud Security and DevOps, and building real-world lab environments to continuously grow my hands-on capabilities.
 
-
----
-
-## 🧠 Currently Working On
-
-- AWS Cloud Practitioner & Solutions Architect Labs  
-- ISC² Certified in Cybersecurity (CC)  
-- GitHub Project Portfolio (Live soon!)
-
 ---
 
 ## 🔧 My Tech Stack
@@ -39,20 +30,23 @@ I’m currently pursuing further specialization in Cloud Security and DevOps, an
 
 ---
 
-## 📚 Certifications (in progress)
+## 🎓 Current Studies & Labs
 
-- ✅ [Certified Cloud Security Professional (CCSP)](https://www.isc2.org/Certifications/CCSP) *(course complete)*
-- 🧪 [ISC² Certified in Cybersecurity (CC)](https://www.isc2.org/Certifications/CC) *(in progress)*
-- ☁️ AWS Cloud Practitioner, Solutions Architect *(Udemy – Stephen Maarek)*
+🧪 [ISC² Certified in Cybersecurity (CC)](https://www.isc2.org/Certifications/CC) *(in progress)*
+🧪 [AWS Cloud Practitioner Solutions Architect - Udemy – Stephen Maarek](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/?couponCode=25BBPMXINACTIVE) *(in progress)*
+🧪 [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)) *(in progress)*
+🧪 Building labs using TryHackMe, RangeForce, and GitHub Actions
 
----
+## 🏆 Certifications
 
-## 🔗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINK_HERE)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shanell.mpho@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Labs_Portfolio-000?style=flat&logo=github)](https://github.com/naledi-shanell?tab=repositories)
-
+✅ [Certified Cloud Security Professional (CCSP)](https://www.isc2.org/Certifications/CCSP) *(Infosec Training complete)*
+✅ LPIC-1 – Linux Professional Institute
+✅ ITIL Foundation – Axelos
+✅ IBM Cloud Computing Architecture – Coursera
+✅ Micro1 Certified Technical Services Manager
+✅ Veeam Technical & Sales
+✅ Anti-Money Laundering (Non-Banking) – BIBF 
+✅ Coursera: Technical Support, Cloud Security, SIEM Tools
 
 ## 📁 Featured Projects
 Project	Description	Tech Stack	Link
@@ -61,30 +55,14 @@ Project	Description	Tech Stack	Link
 🧪 ITIL-Based Helpdesk Workflow	Custom Jira automation based on ITIL v4	Jira, Python, ServiceNow	View Repo
 🐧 Linux Admin Lab	Shell scripts, user mgmt, cronjobs, permissions	Ubuntu, Bash	View Repo
 
-## 🎓 Current Studies & Labs
-📘 ISC² Certified in Cybersecurity (CC) – In progress
 
-📗 AWS DevOps Professional – In progress
+## 🔗 Let's Connect
 
-🧪 Building labs using TryHackMe, RangeForce, and GitHub Actions
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/naledi-shanell)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shanell.mpho@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Labs_Portfolio-000?style=flat&logo=github)](https://github.com/naledi-shanell?tab=repositories)
 
-## 🏆 Certifications
-✅ CCSP – ISC² (course completed)
 
-✅ ITIL Foundation
-
-✅ LPIC-1: Linux Administrator
-
-✅ Veeam Technical & Sales
-
-✅ Coursera: Technical Support, Cloud Security, SIEM Tools
-
-## 💌 Let's Connect
-🌍 Website / Portfolio (coming soon)
-
-🧑🏽‍💼 LinkedIn: linkedin.com/in/naledimpho
-
-✉️ Email: shanell.mpho@gmail.com
 
 “You don’t rise to the level of your goals. You fall to the level of your systems.”
 — James Clear
