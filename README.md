@@ -49,19 +49,19 @@ I’m currently pursuing further specialization in Cloud Security and DevOps, an
 
 ## 🏆 Certifications
 
-✅ [Certified Cloud Security Professional (CCSP)](https://www.isc2.org/Certifications/CCSP) *(Infosec Training complete)*
+✅ [Certified Cloud Security Professional (CCSP)](https://www.isc2.org/Certifications/CCSP) *2025 (Infosec Training complete)*
 
-✅ LPIC-1 – Linux Professional Institute
+✅ [Certified Linux Administrator (LPIC-1) – Linux Professional Institute](https://www.lpi.org/our-certifications/lpic-1-overview/) *2021*
 
-✅ ITIL Foundation – Axelos
+✅ [Information Technology Infrastructure Library (ITIL4) Foundation – Axelos](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation) *2025*
 
-✅ IBM Cloud Computing Architecture – Coursera
+✅ [Introduction to Cloud Computing – IBM](https://www.coursera.org/learn/introduction-to-cloud)) *2025*
 
-✅ Micro1 Certified Technical Services Manager
+✅ Micro1 Certified Technical Services Manager *2025*
 
-✅ Veeam Technical & Sales
+✅ Veeam Technical & Sales *2021*
 
-✅ Anti-Money Laundering (Non-Banking) – BIBF 
+✅ Anti-Money Laundering (Non-Banking) – BIBF *2022*
 
 ✅ Coursera: Technical Support, Cloud Security, SIEM Tools
 
