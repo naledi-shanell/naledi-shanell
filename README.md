@@ -47,7 +47,7 @@ I’m currently pursuing further specialization in Cloud Security and DevOps, an
 
 🧪 Building labs using TryHackMe, RangeForce, and GitHub Actions
 
-## 🏆 Certifications
+## 🏆 Completed Trainings & Certifications
 
 ✅ [Certified Cloud Security Professional (CCSP)](https://www.isc2.org/Certifications/CCSP) *2025 (Infosec Training complete)*
 
