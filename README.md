@@ -37,7 +37,7 @@ I’m currently pursuing further specialization in Cloud Security and DevOps, an
 
 ---
 
-## 🎓 Current Studies & Labs
+## 🎓 Current Studies
 
 🧪 [ISC² Certified in Cybersecurity (CC)](https://www.isc2.org/Certifications/CC) *(in progress)*
 
@@ -45,7 +45,12 @@ I’m currently pursuing further specialization in Cloud Security and DevOps, an
 
 🧪 [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)) *(in progress)*
 
-🧪 Building labs using TryHackMe, RangeForce, and GitHub Actions
+
+## Labs
+
+- My TryHackMe Profile: [shanell.mpho](https://tryhackme.com/p/shanell.mpho)
+
+
 
 ## 🏆 Completed Trainings & Certifications
 
