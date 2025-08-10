@@ -1,6 +1,6 @@
 # Hi, I'm Naledi 👋
 
-🚀 **Cloud & Cybersecurity Professional**  
+🚀 **Cloud Infrastructure & Cybersecurity Professional**  
 
 🎯 Specializing in: IT Infrastructure, Disaster Recovery, Hybrid Cloud, Systems Architecture  
 
@@ -21,14 +21,9 @@ I’m currently pursuing further specialization in Cloud Security and DevOps, an
 
 ---
 
-## 🔧 My Tech Stack
+## Labs
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/Nginx-269539?style=flat&logo=nginx&logoColor=white)
+- My TryHackMe Profile: [shanell.mpho](https://tryhackme.com/p/shanell.mpho)
 
 ---
 
@@ -38,12 +33,7 @@ I’m currently pursuing further specialization in Cloud Security and DevOps, an
 
 🧪 [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)) *(in progress)*
 
-
-## Labs
-
-- My TryHackMe Profile: [shanell.mpho](https://tryhackme.com/p/shanell.mpho)
-
-
+---
 
 ## 🏆 Completed Trainings & Certifications
 
@@ -65,6 +55,8 @@ I’m currently pursuing further specialization in Cloud Security and DevOps, an
 
 ✅ Coursera: Technical Support, Cloud Security, SIEM Tools
 
+---
+
 ## 📁 Featured Projects
 Project	Description	Tech Stack	Link
 
@@ -76,6 +68,18 @@ Project	Description	Tech Stack	Link
 
 🐧 Linux Admin Lab	Shell scripts, user mgmt, cronjobs, permissions	Ubuntu, Bash	View Repo
 
+---
+
+## 🔧 My Tech Stack
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/Nginx-269539?style=flat&logo=nginx&logoColor=white)
+
+---
 
 ## 🔗 Let's Connect
 
