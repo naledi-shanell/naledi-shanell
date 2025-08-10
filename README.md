@@ -2,7 +2,7 @@
 
 🚀 **Cloud Infrastructure & Cybersecurity Professional**  
 
-🎯 Specializing in: IT Infrastructure, Disaster Recovery, Hybrid Cloud, Systems Architecture  
+🎯 Specializing in: IT Infrastructure, Cybersecurity, Disaster Recovery, Hybrid Cloud, Systems Architecture  
 
 🌍 Based in: Botswana | Open to Remote & Relocation Opportunities
 
