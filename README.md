@@ -34,8 +34,6 @@ I’m currently pursuing further specialization in Cloud Security and DevOps, an
 
 ## 🎓 Current Studies
 
-🧪 [ISC² Certified in Cybersecurity (CC)](https://www.isc2.org/Certifications/CC) *(in progress)*
-
 🧪 [AWS Cloud Practitioner Solutions Architect - Udemy – Stephen Maarek](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/?couponCode=25BBPMXINACTIVE) *(in progress)*
 
 🧪 [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)) *(in progress)*
@@ -49,6 +47,8 @@ I’m currently pursuing further specialization in Cloud Security and DevOps, an
 
 ## 🏆 Completed Trainings & Certifications
 
+ ✅ [ISC² Certified in Cybersecurity (CC)](https://www.isc2.org/Certifications/CC) *2025 (ISC² Training complete)*
+ 
 ✅ [Certified Cloud Security Professional (CCSP)](https://www.isc2.org/Certifications/CCSP) *2025 (Infosec Training complete)*
 
 ✅ [Certified Linux Administrator (LPIC-1) – Linux Professional Institute](https://www.lpi.org/our-certifications/lpic-1-overview/) *2021*
