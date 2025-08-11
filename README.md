@@ -23,7 +23,7 @@ I’m currently pursuing further specialization in Cloud Security and DevOps, an
 
 ## Labs
 
-- My TryHackMe Profile: [shanell.mpho](https://tryhackme.com/p/shanell.mpho) 
+- My TryHackMe Profile: [naledi.shanell](https://tryhackme.com/p/naledi.shanell) 
 
 ---
 
