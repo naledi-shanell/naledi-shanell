@@ -60,7 +60,7 @@ I’m currently pursuing further specialization in Cloud Security and DevOps, an
 ## 📁 Featured Projects
 Project	Description	Tech Stack	Link
 
-🛡️ SIEM & Threat Detection Lab	Simulated internal attacks and alerting	Splunk, Zeek, Kali Linux	View Repo
+🛡️ SIEM & Threat Detection Lab	Simulated internal attacks and alerting;	SIEM (AlienVault, Elastic, Graylog), firewalls (Fortinet, Endian, MikroTik), and penetration testing tools (Wireshark, Nmap, Metasploit).
 
 ☁️ Hybrid Cloud DR Plan	Disaster Recovery between on-prem and AWS	Veeam, AWS S3, EC2, NGINX	View Repo
 
