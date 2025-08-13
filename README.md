@@ -23,7 +23,8 @@ I’m currently pursuing further specialization in Cloud Security and DevOps, an
 
 ## Labs
 
-- My TryHackMe Profile: [naledi.shanell](https://tryhackme.com/p/naledi.shanell) 
+- My TryHackMe Profile: [naledi.shanell](https://tryhackme.com/p/naledi.shanell)
+- AWS Skill Builder
 
 ---
 
