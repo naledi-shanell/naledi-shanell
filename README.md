@@ -2,7 +2,7 @@
 
 🚀 **Cloud Infrastructure & Cybersecurity Professional**  
 
-🎯 Specializing in: IT Infrastructure, Cybersecurity, Disaster Recovery, Hybrid Cloud, Systems Architecture  
+🎯 PrivacyOps | SecurityOps | ISC² Candidate | CC & CCSP Trained | LPIC-1 | Micro1 Technical Services Manager | Hybrid Cloud & Cybersecurity Infra | 10+ yrs Enterprise IT | DRaaS + DRBC & Compliance | Linux & Windows Admin
 
 🌍 Based in: Botswana | Open to Remote & Relocation Opportunities
 
